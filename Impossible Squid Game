@@ -1,1 +1,1 @@
-Patchet
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CJStyles123/squid_game_marker/main/squid.lua", true))()
